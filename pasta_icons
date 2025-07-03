@@ -1,0 +1,5 @@
+mkdir minha-pasta
+touch minha-pasta/.gitkeep
+git add minha-pasta/.gitkeep
+git commit -m "Criando pasta minha-pasta"
+git push
